@@ -78,12 +78,13 @@ const handleSubmit = async (e: React.FormEvent) => {
         </form>
 
         <div className="mt-6 p-4 bg-blue-50 rounded text-sm">
-          <p className="text-[#001447] mb-2">Usuarios de prueba:</p>
-          <p className="text-gray-600">Administrador: admin / admin123</p>
-          <p className="text-gray-600">Empleado: empleado / emp123</p>
-          <p className="text-gray-600">Dirigente: dirigente / dir123</p>
+          <p className="text-[#001447] mb-2">Ante inconvenientes para acceder</p>
+          <p className="text-gray-600">Por favor, contactate con el administrador del sistema para recibir asistencia.</p>
         </div>
       </div>
     </div>
   );
 }
+
+
+
